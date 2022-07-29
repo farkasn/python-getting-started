@@ -18,5 +18,4 @@ class SimpleTest(TestCase):
         response = index(request)
         self.assertEqual(response.status_code, 200)
 
-
-s
+/python-getting-started/bot.py
